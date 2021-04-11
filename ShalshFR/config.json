@@ -1,0 +1,8 @@
+{
+  "Cmd":"!post",
+  "Msg":"Message pour les rôles de la galère",
+  "Reactions":[
+   { "reaction":"👍","rolen":"762709960051654666"},
+    { "reaction":"👎","rolen":"762709975201611837"}
+  ]
+}
